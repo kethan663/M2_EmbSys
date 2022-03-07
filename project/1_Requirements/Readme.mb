@@ -44,11 +44,13 @@ Sensors that determine volumetric water content are commonly referred to as soil
 examples of sensors that measure another feature of moisture in soils called water potential. These sensors are commonly referred to 
 as soil water potential sensors.
 
-Channel relay:- This is a 5V 4-channel relay interface board that requires a 15-20mA driver current for each channel. It can be 
+Channel relay:-
+This is a 5V 4-channel relay interface board that requires a 15-20mA driver current for each channel. It can be 
 utilised to control a variety of large-current appliances and equipment. It has high-current relays that operate at either AC250V
 10A or DC30V 10A. It has a standard interface that a microcontroller may control directly.
 
-DC motor:-Micro dc 3-6v micro submersible pump for fountains and gardens water circulation system for small spaces dc diy project
+DC motor:-
+Micro dc 3-6v micro submersible pump for fountains and gardens water circulation system for small spaces dc diy project
 Submersible pump with a voltage range of 3 to 6 volts small submersible water pump micro 3v to 6vdc water pump for hobby kit homemade 
 dc pump motor for a tiny submersible pump This is a low-cost, small-size submersible pump motor that runs on a 2.5- to 6-volt power 
 source. It can process up to 120 litres per hour while drawing only 220 milliamps. Simply attach the tube pipe to the motor outlet, 
