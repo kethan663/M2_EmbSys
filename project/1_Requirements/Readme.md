@@ -13,3 +13,4 @@ its use. Irrigation is the largest user of water. This necessitates the need to 
 * The motor should ON and OFF itself automatically.
 * As the world progresses, technology must evolve to keep up.
 # 5W's & 1H
+![5w](https://user-images.githubusercontent.com/88649955/157063478-bd4181d3-6592-4b48-a3d3-1ac3b72ad7d1.JPG)
