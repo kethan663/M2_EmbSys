@@ -17,3 +17,14 @@ its use. Irrigation is the largest user of water. This necessitates the need to 
 # SWAOT Analysis
 ![155678758-0063bc84-e86b-4b49-9a7a-f8d0a4983a82 (1)](https://user-images.githubusercontent.com/88649955/157165148-ea08ce9b-5479-4731-ba70-149da6354302.jpg)
 # Requirements
+## High level requirements
+| ID | High level requirements |
+| ------------ | ------------- |
+| HL1 | It should automatically ON the motor when the soil is dry.|
+| HL2 | The motor should stop the water when there is wet soil.|
+## Low level requirements
+| ID | Low level requirements |
+| ------------ | ------------- |
+| H1L1 | It ON the water motor accordingly to the values of soil moisture sensor.|
+| H1L2 | According to the values the micro controller receives, it orders the relay to start motion.|
+| H2L1 | It OFF the moto according to the timer or delay we give duing coding.|
