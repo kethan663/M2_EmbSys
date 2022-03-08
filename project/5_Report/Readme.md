@@ -1,5 +1,5 @@
 # Water irrigation system
-## 1. About Water ieeigation system
+## 1. About Water irrigation system
 ### 1.1 Description
 
 This project  is to create a  regulated irrigation system that will provide autonomous irrigation for plants while saving water and money. 
