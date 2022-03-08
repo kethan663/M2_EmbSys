@@ -2,7 +2,7 @@
 # water irrigation system
 | Folder Name| Contents |
 | ------------- | ------------- |
-| Casestudy |1 case studies (Elevator) in README.md|
+| Casestudy |1 case study (Elevator) in README.md|
 | Project | For documentation,refer report folder|
 |Project - 1_Requirements|README.md(Description,5W'S&1H,SWOT Analysis,Requirements)|
 |Project - 2_Architecture|README.md(Behavioural diagrams-high level,low level)|
