@@ -1,5 +1,5 @@
 # Test Plan
-| Test ID | Description | Input | Expected Output |
-| ------- | ----------- | ----- | --------------- |
-| HL1 | It should automatically ON the motor when the soil is dry.|
-| HL2 | The motor should stop the water when there is wet soil.|
+| Test ID | Description | Input | Expected Output | Actual Output | Passed or Not | 
+| ------- | ----------- | ----- | --------------- | ------------- |-------------- |
+| 1 | Soil moisture sensor | Dry soil | send 1 to micro contoller | sending 1 to micro controller |  ✅  |
+| 2 | DC motor | channel relay turns ON | Rotate on receiving data from micro controller | Rotate on receiving data from micro controller |   ✅   |
