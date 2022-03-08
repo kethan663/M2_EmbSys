@@ -1,4 +1,4 @@
-# Water ieeigation system
+# Water irrigation system
 ## 1. About Water ieeigation system
 ### 1.1 Description
 
